@@ -1,0 +1,11 @@
+{
+    "description": "My personal portfolio website",
+    "repo": "https://github.com/hydrovolter/portfolio",
+    "owner": {
+      "username": "hydrovolter",
+      "email": "me@hydrovolter.com"
+    },
+    "record": {
+      "CNAME": "hydrovolter.pages.dev"
+    }
+  }

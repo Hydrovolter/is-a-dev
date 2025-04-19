@@ -1,0 +1,11 @@
+{
+    "description": "My personal blog!",
+    "repo": "https://github.com/hydrovolter/blog",
+    "owner": {
+      "username": "hydrovolter",
+      "email": "me@hydrovolter.com"
+    },
+    "record": {
+      "CNAME": "blog-hydro.pages.dev"
+    }
+  }

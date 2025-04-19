@@ -1,0 +1,11 @@
+{
+    "description": "Watch your favorite shows and movies for free with no ads!",
+    "repo": "https://github.com/hydrovolter/movies",
+    "owner": {
+      "username": "hydrovolter",
+      "email": "me@hydrovolter.com"
+    },
+    "record": {
+      "CNAME": "movies-hydro.pages.dev"
+    }
+  }

@@ -1,0 +1,11 @@
+{
+    "description": "Unblock (almost) any site and browse securely!",
+    "repo": "https://github.com/hydrovolter/proxy-hu",
+    "owner": {
+      "username": "hydrovolter",
+      "email": "me@hydrovolter.com"
+    },
+    "record": {
+      "CNAME": "47c5d431-ccca-48b0-95fd-af66b8c017ed.cname.koyeb.app"
+    }
+  }

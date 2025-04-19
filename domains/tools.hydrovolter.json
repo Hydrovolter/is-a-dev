@@ -1,0 +1,11 @@
+{
+    "description": "Collection of useful tools I use on a (somewhat) regular basis",
+    "repo": "https://github.com/hydrovolter/tools",
+    "owner": {
+      "username": "hydrovolter",
+      "email": "me@hydrovolter.com"
+    },
+    "record": {
+      "CNAME": "tools-hydro.pages.dev"
+    }
+  }
